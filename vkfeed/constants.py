@@ -2,7 +2,7 @@
 
 from __future__ import unicode_literals
 
-APP_URL = 'https://8080-dot-2979607-dot-devshell.appspot.com/'
+APP_URL = 'http://finallegofeed.appspot.com/'
 '''URL of the application.'''
 
 API_URL = 'http://api.vk.com/'
