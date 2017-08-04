@@ -22,3 +22,4 @@ DAY_SECONDS = 24 * HOUR_SECONDS
 
 WEEK_SECONDS = 7 * DAY_SECONDS
 '''Number of seconds in week.'''
+ 
